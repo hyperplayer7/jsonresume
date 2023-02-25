@@ -48,6 +48,60 @@
         "Optimizing application performance and scalability",
         "Participating in Agile software development methodologies such as Scrum"
         ]
+    },
+    {
+      "name": "Ripplewave",
+      "position": "Ruby on Rails Developer",
+      "url": "https://company.com",
+      "startDate": "09/2012",
+      "endDate": "06/2013",
+      "summary": "Description…",
+      "highlights": [
+        "Developing and maintaining web applications using the Ruby on Rails framework",
+        "Designing, coding, and testing software applications",
+        "Creating and maintaining databases and database structures",
+        "Developing and implementing software algorithms and data structures",
+        "Debugging and fixing software defects and issues",
+        "Collaborating with other developers, designers, and clients to deliver high-quality software solutions",
+        "Providing technical support to end-users and resolving technical issues",
+        "Planning and executing software development projects"
+        ]
+    },
+    {
+      "name": "Rivereo / Magenic",
+      "position": "Ruby on Rails Developer",
+      "url": "https://company.com",
+      "startDate": "01/2011",
+      "endDate": "11/2012",
+      "summary": "Description…",
+      "highlights": [
+        "Developing and maintaining web applications using the Ruby on Rails framework",
+        "Designing, coding, and testing software applications",
+        "Creating and maintaining databases and database structures",
+        "Developing and implementing software algorithms and data structures",
+        "Debugging and fixing software defects and issues",
+        "Collaborating with other developers, designers, and clients to deliver high-quality software solutions",
+        "Providing technical support to end-users and resolving technical issues",
+        "Planning and executing software development projects",
+        "Participating in Agile software development methodologies such as Scrum"
+        ]
+    },
+    {
+      "name": "Brewed Concepts",
+      "position": "Ruby on Rails Developer",
+      "url": "https://company.com",
+      "startDate": "10/2007",
+      "endDate": "01/2011",
+      "summary": "Description…",
+      "highlights": [
+        "Developing and maintaining web applications using the Ruby on Rails framework",
+        "Designing, coding, and testing software applications",
+        "Creating and maintaining databases and database structures",
+        "Developing and implementing software algorithms and data structures",
+        "Debugging and fixing software defects and issues",
+        "Collaborating with other developers, designers, and clients to deliver high-quality software solutions",
+        "Providing technical support to end-users and resolving technical issues"
+        ]
     }
   ],
   "education": [
@@ -80,5 +134,11 @@
       "description": "How to Deploy a Node.js App to Render.com for Free",
       "url": "https://github.com/hyperplayer7/dfdgdfgdfgd"
     }
+  ],
+  "overview":[
+    "Working as a Software Engineer. Using Rails for making web applications and JSON APIs for building SaaS platforms. Following Ruby best practices and methodologies and also using the latest JS technologies available. Following Agile methodologies to maintain robust development.",
+    "Managed my own team composed of web developers, graphic designers, and an SEO analyst.",
+    "Providing expertise in SaaS development, contributes to the improvement of existing Ruby on Rails application by using Test Driven Development practices and latest Javascript frameworks.",
+    "Experience working with a distributed and fully remote team of experienced developers, QA, and supporting teams in a competitive SaaS company. Demonstrated history of working in the computer software industry with a strong history as a Software Engineer skilled in Ruby on Rails, Software Development, Continuous Integration, Scrum, and Object-Oriented Programming (OOP)."
   ]
 }
