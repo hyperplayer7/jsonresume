@@ -24,6 +24,7 @@
 
 ### Project URL
 - https://digital-cv-m1za.onrender.com/
+- https://urlsession-upload-backend-codebruh.onrender.com/
 
 ### Github URL
 - https://github.com/hyperplayer7/jsonresume
