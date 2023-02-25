@@ -22,8 +22,8 @@
 - pip install pipreqs
 - pipreqs --encoding=utf8 (generate requirements.txt) -->
 
-<!-- ### Project URL -->
-<!-- - https://digital-cv-m1za.onrender.com/ -->
+### Project URL
+- https://digital-cv-m1za.onrender.com/
 
 ### Github URL
 - https://github.com/hyperplayer7/jsonresume
