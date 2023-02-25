@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Bryan Chan",
+    "label": "Ruby on Rails Developer",
+    "image": "https://lh4.googleusercontent.com/2D9WP_InDxPQg2li0iVSfWt-SsvA2ADxQvbrbG4oBvv18WDnIZiXtM2NLcp3-hDmNpI=w2400",
+    "email": "bryancarlsonchan@gmail.com",
+    "url": "https://digital-cv-m1za.onrender.com/",
+    "summary": "I am an experienced Ruby on Rails developer with a deep understanding of the language and framework. I have a passion for creating scalable, maintainable, and high-performance web applications while staying up-to-date with the latest technologies and industry trends.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/bryancarlsonchan/"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/hyperplayer7"
+      },
+      {
+        "network": "Dev.to",
+        "url": "https://dev.to/hyperplayer7"
+      },
+      {
+        "network": "Hashnode",
+        "url": "https://shoshin.hashnode.dev/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LaunchPad Recruits / Outmatch / Harver",
+      "position": "Ruby on Rails Developer",
+      "url": "https://company.com",
+      "startDate": "07/2013",
+      "endDate": "Present",
+      "summary": "Description…",
+      "highlights": [
+        "Developing and maintaining web applications using the Ruby on Rails framework",
+        "Designing, coding, and testing software applications",
+        "Creating and maintaining databases and database structures",
+        "Developing and implementing software algorithms and data structures",
+        "Debugging and fixing software defects and issues",
+        "Collaborating with other developers and designers to deliver high-quality software solutions",
+        "Participating in code reviews and providing feedback to other developers",
+        "Staying up-to-date with the latest technologies and trends in web development",
+        "Providing technical support to end-users and resolving technical issues",
+        "Planning and executing software development projects",
+        "Writing clean, efficient, and well-organized code that follows industry best practices",
+        "Optimizing application performance and scalability",
+        "Participating in Agile software development methodologies such as Scrum"
+        ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["Ruby","Ruby on Rails","Web Development","Mysql","Postgres","Git","Jquery","JSON","HTML", "CSS", "JavaScript","API","Rspec","Python","Node.js"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Build A Digital Resume Using Python & Streamlit",
+      "description": "Build A Digital Resume Using Python & Streamlit",
+      "url": "https://github.com/hyperplayer7/cvpython3streamlit"
+    },
+    {
+      "name": "How to Deploy a Node.js App to Render.com for Free",
+      "description": "How to Deploy a Node.js App to Render.com for Free",
+      "url": "https://github.com/hyperplayer7/dfdgdfgdfgd"
+    }
+  ]
+}
