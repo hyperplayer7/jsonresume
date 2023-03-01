@@ -27,6 +27,7 @@
 - https://urlsession-upload-backend-codebruh.onrender.com/
 - https://nextjsv1-one.vercel.app/
 - https://nextjsv1.onrender.com/
+- https://main--shimmering-haupia-a6b06d.netlify.app/
 
 
 ### Github URL
@@ -42,7 +43,7 @@
 - Try storyblok
 - Try gatsby
 - Try vercel - DONE
-- Try netlify
+- Try netlify - DONE
 - Try graphql
 - Try vue
 - Try django
