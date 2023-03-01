@@ -25,14 +25,26 @@
 ### Project URL
 - https://digital-cv-m1za.onrender.com/
 - https://urlsession-upload-backend-codebruh.onrender.com/
+- https://nextjsv1-one.vercel.app/
+- https://nextjsv1.onrender.com/
+
 
 ### Github URL
 - https://github.com/hyperplayer7/jsonresume
 
 ### Credits / References
 - https://jsonresume.org/schema/
-<!-- -  -->
 
-<!-- ### Next Iteration -->
-<!-- - Make a json API containing data
-- Make app read data from the API -->
+### Next Iteration
+- Create a react app using this API - DONE
+- Create a next.js app using this API - DONE
+- Try to code in stackblitz
+- Try storyblok
+- Try gatsby
+- Try vercel - DONE
+- Try netlify
+- Try graphql
+- Try vue
+- Try django
+- Try elixir
+- Try docker
