@@ -39,11 +39,11 @@
 ### Next Iteration
 - Create a react app using this API - DONE
 - Create a next.js app using this API - DONE
-- Try to code in stackblitz
-- Try storyblok
-- Try gatsby
+- Try gatsby - DONE
 - Try vercel - DONE
 - Try netlify - DONE
+- Try to code in stackblitz
+- Try storyblok
 - Try graphql
 - Try vue
 - Try django
