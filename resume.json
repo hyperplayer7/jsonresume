@@ -120,7 +120,7 @@
     {
       "name": "Web Development",
       "level": "Master",
-      "keywords": ["Ruby","Ruby on Rails","Web Development","Mysql","Postgres","Git","Jquery","JSON","HTML", "CSS", "JavaScript","API","Rspec","Python","Node.js"]
+      "keywords": ["Ruby","Ruby on Rails","Web Development","Mysql","Postgres","Git","Jquery","JSON","HTML", "CSS", "JavaScript","API","Rspec","Python","Node.js", "GraphQL"]
     }
   ],
   "projects": [
@@ -138,6 +138,16 @@
       "name": "Build Restful CRUD API with Node.js, Express and MongoDB in 45 minutes for Beginners from Scratch",
       "description": "Build Restful CRUD API with Node.js, Express and MongoDB in 45 minutes for Beginners from Scratch",
       "url": "https://github.com/hyperplayer7/devtaminnodeapimongodb"
+    },
+    {
+      "name": "How to Integrate ChatGPT with Node.js App using the OpenAI API",
+      "description": "How to Integrate ChatGPT with Node.js App using the OpenAI API",
+      "url": "https://github.com/hyperplayer7/chatgptv1"
+    },
+    {
+      "name": "Rails 7 + authentication-zero gem",
+      "description": "Rails 7 + authentication-zero gem",
+      "url": "https://github.com/hyperplayer7/authzerov2"
     }
   ],
   "overview":[
